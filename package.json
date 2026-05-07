@@ -1,1 +1,8 @@
-
+{
+"name": "app-delivery-backend",
+"version": "1.0.0",
+"description": "Backend seguro para aplicación de delivery",
+"dependencies": {
+"@neondatabase/serverless": "^0.9.0"
+}
+}
